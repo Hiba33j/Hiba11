@@ -10,3 +10,8 @@ Else
 8)	End if 
 9)	If code makeup ="HF11" then
 10)	The customer will get lipstick
+Else 
+11)	The customer will not get lipstick
+12)	End if 
+13)	End for
+14)	Print "over"
