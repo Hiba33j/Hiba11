@@ -1,0 +1,7 @@
+1)	Start 
+2)	For customer buying makeup 
+3)	Read total price ,code makeup
+4)	If (total price > 50 RO)then
+5)	The customer will get discount 50%;
+Else if (total price > 30%RO) then
+6)	Customer will get discount 20% ;
